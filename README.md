@@ -1,6 +1,6 @@
 [![Bounty](https://make.fun/badge/u-mang-one-line-of-earned-pride-a0138557.svg)](https://make.fun/bounty/u-mang-one-line-of-earned-pride-a0138557?utm_source=github&utm_medium=readme&utm_campaign=one-line-of-earned-pride)
 [![Rank](https://make.fun/badge/u-mang-one-line-of-earned-pride-a0138557/zp1206849221-sketch/one-line-of-earned-pride/rank.svg)](https://make.fun/bounty/u-mang-one-line-of-earned-pride-a0138557?utm_source=github&utm_medium=readme&utm_campaign=one-line-of-earned-pride)
-[![Reward](https://make.fun/badge/u-mang-one-line-of-earned-pride-a0138557/reward.svg)](https://make.fun/bounty/u-mang-one-line-of-earned-pride-a0138557?utm_source=github&utm_medium=readme&utm_campaign=one-line-of-earned-pride)
+[![Reward](https://make.fun/badge/u-mang-one-line-of-earned-pride-a0138557/zp1206849221-sketch/one-line-of-earned-pride/reward.svg)](https://make.fun/bounty/u-mang-one-line-of-earned-pride-a0138557?utm_source=github&utm_medium=readme&utm_campaign=one-line-of-earned-pride)
 
 # One Line of Earned Pride
 
